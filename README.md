@@ -1,12 +1,12 @@
 ## Deskripsi
 Aplikasi dibangun dengan menggunakan database MySql dengan 6 tabel utama.
     ```
-	- obat_resep_signas
-	- obatalkes_m
-	- resep_signas
-	- reseps
-	- signa_m
-	- users 
+	 obat_resep_signas
+	 obatalkes_m
+	 resep_signas
+	 reseps
+	 signa_m
+	 users 
     ```
 
 Aplikasi berguna untuk melakukan manajemen resep dengan input berupa sekumpulan obat dengan jenis Racikan dan Non Racikan.
