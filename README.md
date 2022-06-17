@@ -34,4 +34,10 @@ php artisan key:generate pada terminal
 php artisan serve
 ```
 11. aplikasi dapat di buka dengan mengakses url  localhost:8000 (8000 port default dapat berubah)  pada browser. 
+12. akun dari seeder 
+
+```
+Email : test@gmail.com
+password : password
+```
 
