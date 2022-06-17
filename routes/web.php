@@ -16,10 +16,10 @@ use Illuminate\Support\Facades\Route;
  */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/login');
 });
 
-Auth::routes();
+Auth::routes(['register'=>false]);
 
 Route::group(['middleware' => 'auth'], function () {
     Route::resource('resep', ResepController::class);
