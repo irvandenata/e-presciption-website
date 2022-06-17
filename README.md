@@ -41,3 +41,30 @@ Email : test@gmail.com
 password : password
 ```
 
+## Tampilan Aplikasi
+#1.Hamalan Login
+![alt text]([http://url/to/img.png](https://github.com/irvandenata/e-presciption-website/blob/main/GAMBAR%20DEMO/detail%20obat.png))
+
+
+#2.Halaman Daftar Resep
+
+
+
+
+#3.Halaman Tambah Resep
+
+
+
+#4.Tambah Obat Racikan
+
+
+#5.Daftar Obat Yang ditambahkan
+
+
+
+
+#6.Detail Resep
+
+
+
+#7.Tampilan Hasil Print
