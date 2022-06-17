@@ -58,7 +58,7 @@ password : password
 
 #Halaman Tambah Resep
 
-![image description](GAMBAR%20DEMO/halam%20daftar%20resep.png?raw=true)
+![image description](GAMBAR%20DEMO/tambah%20resep.png?raw=true)
 
 
 
