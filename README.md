@@ -43,7 +43,10 @@ password : password
 
 ## Tampilan Aplikasi
 #1.Hamalan Login
-![alt text](http://url/to/img.png](https://github.com/irvandenata/e-presciption-website/blob/main/GAMBAR%20DEMO/login.png?raw=true)
+
+
+![image description](GAMBAR%20DEMO/login.png?raw=true)
+
 
 
 #2.Halaman Daftar Resep
