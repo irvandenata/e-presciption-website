@@ -9,11 +9,7 @@ Aplikasi dibangun dengan menggunakan database MySql dengan 6 tabel utama.
 
 Aplikasi berguna untuk melakukan manajemen resep dengan input berupa sekumpulan obat dengan jenis Racikan dan Non Racikan.
 
-
-
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
+[a link] (https://github.com/user/repo/blob/branch/other_file.md)
 
 ## Instruksi Instalasi
 1. clone project dengan menggunakan git.
