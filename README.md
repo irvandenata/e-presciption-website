@@ -8,8 +8,11 @@ Aplikasi dibangun dengan menggunakan database MySql dengan 6 tabel utama.
 	- users 
 
 Aplikasi berguna untuk melakukan manajemen resep dengan input berupa sekumpulan obat dengan jenis Racikan dan Non Racikan.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Reference-style: 
+![alt text][logo]
 
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 ## Instruksi Instalasi
 1. clone project dengan menggunakan git.
 github : https://github.com/irvandenata/e-prescription.git
