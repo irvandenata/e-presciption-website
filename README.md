@@ -52,22 +52,28 @@ password : password
 #2.Halaman Daftar Resep
 
 
+![image description](GAMBAR%20DEMO/halam%20daftar%20resep.png?raw=true)
+
 
 
 #3.Halaman Tambah Resep
+![image description](GAMBAR%20DEMO/halam%20daftar%20resep.png?raw=true)
+
+
 
 
 
 #4.Tambah Obat Racikan
+![image description](GAMBAR%20DEMO/tambah%20obat%20racikan.png?raw=true)
 
 
 #5.Daftar Obat Yang ditambahkan
-
-
+![image description](GAMBAR%20DEMO/draf%20obat.png?raw=true)
 
 
 #6.Detail Resep
-
+![image description](GAMBAR%20DEMO/detail%20obat.png?raw=true)
 
 
 #7.Tampilan Hasil Print
+![image description](GAMBAR%20DEMO/print%20resep.png?raw=true)
