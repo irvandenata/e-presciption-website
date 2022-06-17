@@ -19,8 +19,8 @@ return new class extends Migration
             $table->integer('signa_id');
             $table->boolean('isRacikan')->default(0);
             $table->string('nama_racikan')->nullable();
-            $table->foreign('resep_id')->references('id')->on('reseps')->onUpdate('CASCADE');
-            $table->foreign('signa_id')->references('signa_id')->on('signa_m')->onUpdate('CASCADE');
+            $table->foreign('resep_id')->references('id')->on('reseps')->onUpdate('CASCADE')->onDelete('CASCADE');
+            $table->foreign('signa_id')->references('signa_id')->on('signa_m')->onUpdate('CASCADE')->onDelete('CASCADE');
             $table->timestamps();
         });
     }

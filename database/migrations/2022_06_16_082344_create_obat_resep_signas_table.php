@@ -19,8 +19,8 @@ return new class extends Migration
             $table->integer('obat_id');
             $table->integer('jumlah');
             $table->timestamps();
-            $table->foreign('resep_signa_id')->references('id')->on('resep_signas')->onUpdate('CASCADE');
-            $table->foreign('obat_id')->references('obatalkes_id')->on('obatalkes_m')->onUpdate('CASCADE');
+            $table->foreign('resep_signa_id')->references('id')->on('resep_signas')->onUpdate('CASCADE')->onDelete('CASCADE');
+            $table->foreign('obat_id')->references('obatalkes_id')->on('obatalkes_m')->onUpdate('CASCADE')->onDelete('CASCADE');
         });
     }
 
