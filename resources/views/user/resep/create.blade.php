@@ -22,6 +22,9 @@
     </style>
 @endpush
 
+@section('btn')
+    <a href="/resep" class="btn btn-primary"><i class="fa fa-arrow-left"></i> Kembali</a>
+@endsection
 @section('content')
 <div class="row">
     <div class="col-12">

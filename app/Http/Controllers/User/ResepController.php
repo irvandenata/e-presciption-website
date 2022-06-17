@@ -27,7 +27,7 @@ class ResepController extends Controller
             return DataTables::of($items)
 
                 ->addColumn('action', function ($item) {
-                    return '<a class="btn btn-info btn-sm" href="/api/resep/cetak/'.$item->id.'" ><i class="fa fa-print"></i></span></a>  <a class="btn btn-info btn-sm" onclick="detailItem(' . $item->id . ')"><i class="fa fa-eye"></i></span></a> <a class="btn btn-danger btn-sm" onclick="deleteItem(' . $item->id . ')"><i class="fa fa-trash"></i></span></a>';
+                    return '<a class="btn btn-warning btn-sm" href="/api/resep/cetak/'.$item->id.'" ><i class="fa fa-print"></i></span></a>  <a class="btn btn-info btn-sm" onclick="detailItem(' . $item->id . ')"><i class="fa fa-eye"></i></span></a> <a class="btn btn-danger btn-sm" onclick="deleteItem(' . $item->id . ')"><i class="fa fa-trash"></i></span></a>';
                 })
                 ->editColumn('created_at', function ($item) {
                     return $item->created_at->format('d M Y');

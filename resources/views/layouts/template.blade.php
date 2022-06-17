@@ -8,7 +8,7 @@
         <meta name="author" content="Coderthemes">
 
         <link rel="shortcut icon" href="{{ asset('assets') }}/images/favicon.ico">
-    <meta name="csrf-token" content="{{ csrf_token() }}">
+        <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>E-Prescription</title>
 
         <!--Morris Chart CSS -->
@@ -50,7 +50,7 @@
                                 </button>
                             </li>
                             <li class="list-inline-item">
-                                <h4 class="page-title">@yield('title')</h4>
+                                <h4 class="page-title">@yield('title') <span>@yield('btn')</span></h4>
                             </li>
                         </ul>
 
